@@ -32,15 +32,15 @@ Gitso is a frontend to reverse VNC connections.  It is meant to be a simple two-
 <h2>Downloads</h2>
 <a href='https://github.com/stephdl/gitso-download'> See all downloads</a>.<br>
 <ul><li>Mac OS X:<br>
-<ul><li><a href='https://github.com/stephdl/gitso-download/blob/master/Gitso_0.6_mac_Leopard.dmg'> Gitso 0.6 (10.5 Leopard)</a>.<br>
-</li><li><a href='https://github.com/stephdl/gitso-download/blob/master/gitso_0.6_mac_SnowLeopard.dmg'> Gitso 0.6 (10.6 Snow Leopard)</a>.<br>
+<ul><li><a href='https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gitso/Gitso_0.6_mac_Leopard.dmg'> Gitso 0.6 (10.5 Leopard)</a>.<br>
+</li><li><a href='https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gitso/gitso_0.6_mac_SnowLeopard.dmg'> Gitso 0.6 (10.6 Snow Leopard)</a>.<br>
 </li></ul></li><li>Windows:<br>
-<ul><li><a href='https://github.com/stephdl/gitso-download/blob/master/gitso_0.6_install.exe'>Gitso 0.6 Windows XP and higher</a>.<br>
+<ul><li><a href='https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gitso/gitso_0.6_install.exe'>Gitso 0.6 Windows XP and higher</a>.<br>
 </li></ul></li><li>Linux:<br>
-<ul><li><a href='https://github.com/stephdl/gitso-download/blob/master/gitso_0.6.2_all.deb'>Gitso 0.6.2 Debian_Ubuntu</a>
-</li><li><a href='https://github.com/stephdl/gitso-download/blob/master/gitso_0.6-1_fedora.i386.rpm'>Gitso 0.6 Fedora</a>.<br>
-</li><li><a href='https://github.com/stephdl/gitso-download/blob/master/gitso_0.6-1_opensuse.i586.rpm'>Gitso 0.6 OpenSUSE</a>.<br>
-</li><li><a href='https://github.com/stephdl/gitso-download/blob/master/gitso_0.6_linux_all.tar.gz'>Gitso 0.6 Platform Independent</a>.<br>
+<ul><li><a href='https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gitso/gitso_0.6.2_all.deb'>Gitso 0.6.2 Debian_Ubuntu</a>
+</li><li><a href='https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gitso/gitso_0.6-1_fedora.i386.rpm'>Gitso 0.6 Fedora</a>.<br>
+</li><li><a href='https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gitso/gitso_0.6-1_opensuse.i586.rpm'>Gitso 0.6 OpenSUSE</a>.<br>
+</li><li><a href='https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gitso/gitso_0.6_linux_all.tar.gz'>Gitso 0.6 Platform Independent</a>.<br>
 <ul><li>You will need to manually install the following:<br>
 <ul><li>x11vnc<br>
 </li><li>vncviewer<br>
